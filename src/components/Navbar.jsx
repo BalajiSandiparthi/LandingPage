@@ -13,7 +13,7 @@ function Navbar(){
                     <span className="nav-icon"></span>
                 </label>
                 <ul className="menu">
-                    <li><Link to='main' className="active">Home</Link></li>
+                    <li><Link to='main'>Home</Link></li>
                     <li><Link to='features'>Features</Link></li>
                     <li><Link to='services'>Services</Link></li>
                     <li><Link to='subscribe'>Subscribe</Link></li>
